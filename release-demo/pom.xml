@@ -5,13 +5,13 @@
 
   <groupId>com.sandalorian</groupId>
   <artifactId>release-demo</artifactId>
-  <version>1.1-RC</version>
+  <version>1.2-SNAPSHOT</version>
 
   <name>release-demo</name>
 
   <scm>
     <developerConnection>scm:git:https://github.com/Sandalorian/playing-with-maven-release.git</developerConnection>
-    <tag>release-demo-1.1-RC</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
