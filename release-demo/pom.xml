@@ -10,6 +10,10 @@
 
   <name>release-demo</name>
 
+  <scm>
+    <developerConnection>scm:git:https://github.com/Sandalorian/playing-with-maven-release.git</developerConnection>
+  </scm>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>21</maven.compiler.source>
